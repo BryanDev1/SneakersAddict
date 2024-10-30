@@ -1,0 +1,75 @@
+[
+	{
+		"id": 1,
+		"name": "Adidas Campus 00s",
+		"category": "Shoes",
+		"price": "119.99 €",
+		"gender": "Men",
+		"brand": "Adidas",
+		"img": "https://images.footlocker.com/is/image/FLEU/314312094304_01?wid=504&hei=504&fmt=png-alpha"
+	},
+	{
+		"id": 2,
+		"name": "Asics Gel NYC",
+		"category": "Shoes",
+		"price": "149.99 €",
+		"gender": "Men",
+		"brand": "Asics",
+		"img": "https://images.footlocker.com/is/image/FLEU/314216894304_01?wid=504&hei=504&fmt=png-alpha"
+	},
+	{
+		"id": 3,
+		"name": "Salomon XT-6",
+		"category": "Shoes",
+		"price": "189.99 €",
+		"gender": "Men",
+		"brand": "Salomon",
+		"img": "https://images.footlocker.com/is/image/FLEU/314216888504_01?wid=504&hei=504&fmt=png-alpha"
+	},
+	{
+		"id": 4,
+		"name": "UGG Tasman Weather Hybrid",
+		"category": "Shoes",
+		"price": "159.99 €",
+		"gender": "Men",
+		"brand": "UGG",
+		"img": "https://images.footlocker.com/is/image/FLEU/314626798004_01?wid=504&hei=504&fmt=png-alpha"
+	},
+	{
+		"id": 5,
+		"name": "Anta Kai 1 Speed",
+		"category": "Shoes",
+		"price": "99.99 €",
+		"gender": "Men",
+		"brand": "Anta",
+		"img": "https://images.footlocker.com/is/image/FLEU/314109061904_01?wid=504&hei=504&fmt=png-alpha"
+	},
+	{
+		"id": 6,
+		"name": "Crocs Classic Lockdown Clog",
+		"category": "Sandals",
+		"price": "69.99 €",
+		"gender": "Men",
+		"brand": "Crocs",
+		"img": "https://images.footlocker.com/is/image/FLEU/314626830104_01?wid=504&hei=504&fmt=png-alpha"
+	},
+
+	{
+		"id": 7,
+		"name": "Adidas Anthony Edwards 1 Mid",
+		"category": "Shoes",
+		"price": "149.99 €",
+		"gender": "Men",
+		"brand": "Adidas",
+		"img": "https://images.footlocker.com/is/image/FLEU/314108744104_01?wid=504&hei=504&fmt=png-alpha"
+	},
+	{
+		"id": 8,
+		"name": "Nike Air Max Tuned 1",
+		"category": "Shoes",
+		"price": "189.99 €",
+		"gender": "Men",
+		"brand": "Nike",
+		"img": "https://images.footlocker.com/is/image/FLEU/314217008904_01?wid=504&hei=504&fmt=png-alpha"
+	}
+]

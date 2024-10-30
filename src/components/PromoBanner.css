@@ -1,0 +1,11 @@
+/* src/PromoBanner.css */
+
+.promo-banner {
+	background-color: red;
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 1.5rem;
+	position: relative;
+	transition: opacity 1s ease-in-out; /* Pour le fondu */
+}
